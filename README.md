@@ -45,6 +45,13 @@ _)
 streamlit run weight_level_prediction_app.py
 ```
 
+🌐 Live Demo
+
+Check out the live demo of the Streamlit app:
+🔗 Streamlit App(https://weight-level-predictor-aruk4hjs22qobrxz5sikgx.streamlit.app/)
+
+
+
 ## 📊 Dataset
 The dataset contains various physical and behavioral attributes of individuals, including:
 - **Age, Height, Weight**
