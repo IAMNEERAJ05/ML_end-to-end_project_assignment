@@ -77,5 +77,5 @@ Let's connect and improve this project together! 🚀
 
 📧 Email: [seeramneeraj2005@gmail.com](seeramneeraj2005@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/seeram-neeraj-kumar-a2a56b267](www.linkedin.com/in/seeram-neeraj-kumar-a2a56b267)  
-🐙 GitHub: [github.com/your-profile](https://github.com/your-profile)
+🐙 GitHub: [(https://github.com/IAMNEERAJ05)](https://github.com/IAMNEERAJ05)
 
