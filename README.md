@@ -61,7 +61,7 @@ The dataset contains various physical and behavioral attributes of individuals, 
 ## 🖼 App Interface
 The Streamlit app provides an intuitive UI where users input their details via sliders and dropdowns to get an instant prediction of their body weight category.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)
+![Image](https://github.com/user-attachments/assets/8d684cba-47f8-4580-a946-954334e18afc)
 
 ## 🏆 Future Enhancements
 - Improve model accuracy with additional feature engineering.
