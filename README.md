@@ -1,6 +1,6 @@
 # Body-Weight Level Prediction
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Body-Weight+Level+Prediction)
+
 
 ## 📌 Project Overview
 This project is a **multi-class classification model** that predicts a user's weight category based on their physical attributes and lifestyle habits. It was developed as part of my **3-1 first assignment** in **Machine Learning**. The dataset used for this project was sourced from the **UCI Machine Learning Repository**.
